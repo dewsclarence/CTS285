@@ -9,6 +9,9 @@ void menu()
   cout << "Press 4 for Division"<<endl;
   cout <<"Press 5 to exit"<<endl;
 }
+/*
+Hello.
+*/
 void result(int choice, int a, int b)
 {
   switch (choice)
